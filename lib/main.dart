@@ -6,6 +6,7 @@ void main() {
       body: SafeArea(child: Column(
         children: [
           Text("This is a very Nice App"),
+          Text("Hello dev")
         ],
       )),
     ),
